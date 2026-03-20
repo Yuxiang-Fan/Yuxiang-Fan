@@ -9,7 +9,7 @@ I am a junior undergraduate student majoring in Artificial Intelligence at Tongj
 ### 🔬 Research Projects / 科研经历
 
 #### **Ongoing & Recent / 近期研究**
-- **<a id="autonomous-manipulation">Autonomous Manipulation in Constrained Environments</a>**
+- <a name="autonomous-manipulation"></a>**Autonomous Manipulation in Constrained Environments**
   - Developed an *Asymmetric Hybrid Control* strategy for precision manipulation of flexible instruments, integrating **PPO-based Reinforcement Learning** with **interpretable PID** controllers.
   - Utilized the **SOFA Framework** for physics-based modeling and behavioral extraction to bridge the simulation-to-reality gap.
   - *Note: This work is currently under double-blind review (IEEE T-ASE); details are kept general to maintain anonymity.*
@@ -29,14 +29,14 @@ I am a junior undergraduate student majoring in Artificial Intelligence at Tongj
 #### **AI & Learning Paradigms / 人工智能与学习范式**
 - **[Deep Reinforcement Learning (DRL)](#autonomous-manipulation)**: Learning optimal control policies via trial-and-error interaction within dynamic environments.
 - **[Weakly Supervised Multiple Instance Learning (WS-MIL)](https://github.com/Yuxiang-Fan/Huawei-ICT-ViT-Breast-Cancer-Acceleration)**: Aggregating local instances for global decision-making under sparse labels.
-- **[Visual Foundation Models (VFM)](https://github.com/Yuxiang-Fan/Huawei-ICT-ViT-Breast-Cancer-Acceleration)**: Leveraging large-scale pre-trained weights (e.g., ViT-Large) for general feature extraction.
+- **[Visual Foundation Models (VFM)](https://github.com/Yuxiang-Fan/Huawei-ICT-ViT-Breast-Cancer-Acceleration)**: Leveraging large-scale pre-trained weights (e.g., UNI / ViT-Large) for general feature extraction.
 - **[Decoupled Knowledge Distillation (DKD)](https://github.com/Yuxiang-Fan/Huawei-ICT-ViT-Breast-Cancer-Acceleration)**: Refining feature transfer by decoupling target and non-target class knowledge.
 - **[Hardware-Aware Model Compression (HAMC)](https://github.com/Yuxiang-Fan/Huawei-ICT-ViT-Breast-Cancer-Acceleration)**: Deep optimization (Pruning, SVD, INT8) tailored for hardware (NPU/FPGA) operator characteristics.
 - **[Gated Feature Refinement](https://github.com/Yuxiang-Fan/Huawei-ICT-ViT-Breast-Cancer-Acceleration)**: Utilizing Gated Linear Units (GLU) for domain-specific feature enhancement.
 - **[Hybrid Spatiotemporal Modeling](https://github.com/Yuxiang-Fan/V2G-Synergy-Framework)**: Integrating Monte Carlo simulations with Copula-based dependency analysis for complex systems.
 - **[Temporal Correlation Analysis](https://github.com/Yuxiang-Fan/Industrial-Signal-Forecaster)**: Extracting delayed responses in high-dimensional sensor data via lag-correlation and hybrid CNN-LSTM.
 
-#### **Languages & Frameworks **
+#### **Languages & Frameworks / 语言与框架**
 - **Languages**: Python, C++, MATLAB, Verilog.
 - **Simulation**: **SOFA Framework**, Blender, 3D Slicer.
 - **Design Tools**: Git, LaTeX, Inkscape.
